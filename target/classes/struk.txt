@@ -1,0 +1,18 @@
+===========================================
+			   Stars Coffee
+===========================================
+Terima kasih sudah memesan di Stars Coffee!
+Di bawah ini adalah pesanan Anda:
+
+No	  Pesanan	  Qty  Harga
+1  | Iced Latte	 | 2 | 30000
+5  | Croissant	 | 2 | 24000
+3  | Americano	 | 1 | 12000
+------------------------------+
+Total			   5   66000
+
+Pembayaran: Stars Coffee Card
+
+===========================================
+Simpan struk ini sebagai bukti pembayaran
+===========================================
