@@ -1,8 +1,6 @@
-package org.metrodatacademy;
+package org.starsyndrome;
 
-import org.metrodatacademy.controller.UserInput;
-
-import java.io.IOException;
+import org.starsyndrome.controller.UserInput;
 
 public class Main {
     public static void main(String[] args) {

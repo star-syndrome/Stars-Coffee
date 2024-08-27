@@ -5,9 +5,11 @@ Terima kasih sudah memesan di Stars Coffee!
 Di bawah ini adalah pesanan Anda:
 
 No	  Pesanan	  Qty  Harga
-1  | Iced Latte	 | 1 | 15000
+1  | Iced Latte	 | 5 | 75000
+4  | Red Velvet	 | 1 | 15000
+5  | Croissant	 | 5 | 60000
 ------------------------------+
-Total			   1   15000
+Total			   11   150000
 
 Pembayaran: Stars Coffee Card
 

@@ -1,11 +1,11 @@
-package org.metrodatacademy.controller;
+package org.starsyndrome.controller;
 
-import org.metrodatacademy.model.Order;
-import org.metrodatacademy.model.Product;
-import org.metrodatacademy.repository.ProductRepository;
-import org.metrodatacademy.service.OrderService;
-import org.metrodatacademy.service.OrderServiceImplement;
-import org.metrodatacademy.view.MenuView;
+import org.starsyndrome.model.Order;
+import org.starsyndrome.model.Product;
+import org.starsyndrome.repository.ProductRepository;
+import org.starsyndrome.service.OrderService;
+import org.starsyndrome.service.OrderServiceImplement;
+import org.starsyndrome.view.MenuView;
 
 import java.util.ArrayList;
 import java.util.List;

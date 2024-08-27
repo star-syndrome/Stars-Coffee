@@ -1,4 +1,4 @@
-package org.metrodatacademy.model;
+package org.starsyndrome.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

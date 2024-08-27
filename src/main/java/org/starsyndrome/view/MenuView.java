@@ -1,14 +1,14 @@
-package org.metrodatacademy.view;
+package org.starsyndrome.view;
 
-import org.metrodatacademy.model.Order;
-import org.metrodatacademy.model.Product;
+import org.starsyndrome.model.Order;
+import org.starsyndrome.model.Product;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 
-import static org.metrodatacademy.repository.ProductRepository.PRODUCTS;
+import static org.starsyndrome.repository.ProductRepository.PRODUCTS;
 
 public class MenuView {
     public static void mainView() {
@@ -19,6 +19,7 @@ public class MenuView {
         PRODUCTS.forEach(product -> System.out.println(product.getId() + ". " +
                 product.getName() + "\t | \t" + product.getPrice()));
         System.out.println("99. Konfirmasi Pesanan");
+
         System.out.println("0. Keluar Aplikasi");
         System.out.println();
         System.out.print("Inputkan nomor yang tersedia pada menu: ");
@@ -67,7 +68,7 @@ public class MenuView {
     }
 
     public static void receipt(List<Order> orders, Integer totalQty, Integer totalPembayaran) throws IOException {
-        FileWriter fw = new FileWriter("C:/BEJIntelliJEdu/StarsCoffee/src/main/resources/struk.txt");
+        FileWriter fw = new FileWriter("C:/Stars-Coffee/src/main/resources/struk.txt");
         BufferedWriter bw = new BufferedWriter(fw);
         bw.write("===========================================\n");
         bw.write("\t\t\t   Stars Coffee\n");

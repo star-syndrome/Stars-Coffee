@@ -5,9 +5,9 @@ Terima kasih sudah memesan di Stars Coffee!
 Di bawah ini adalah pesanan Anda:
 
 No	  Pesanan	  Qty  Harga
-1  | Iced Latte	 | 1 | 15000
+2  | Cappuccino	 | 5 | 100000
 ------------------------------+
-Total			   1   15000
+Total			   5   100000
 
 Pembayaran: Stars Coffee Card
 

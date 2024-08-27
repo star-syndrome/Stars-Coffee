@@ -1,6 +1,6 @@
-package org.metrodatacademy.repository;
+package org.starsyndrome.repository;
 
-import org.metrodatacademy.model.Product;
+import org.starsyndrome.model.Product;
 
 import java.util.Arrays;
 import java.util.List;

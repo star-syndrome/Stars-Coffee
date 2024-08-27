@@ -1,6 +1,6 @@
-package org.metrodatacademy.service;
+package org.starsyndrome.service;
 
-import org.metrodatacademy.model.Order;
+import org.starsyndrome.model.Order;
 
 import java.util.List;
 
