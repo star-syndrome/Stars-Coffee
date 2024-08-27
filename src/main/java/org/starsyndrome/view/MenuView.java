@@ -68,7 +68,7 @@ public class MenuView {
     }
 
     public static void receipt(List<Order> orders, Integer totalQty, Integer totalPembayaran) throws IOException {
-        FileWriter fw = new FileWriter("C:/Stars-Coffee/src/main/resources/struk.txt");
+        FileWriter fw = new FileWriter("C:/GitHub Repository/Stars-Coffee/src/main/resources/struk.txt");
         BufferedWriter bw = new BufferedWriter(fw);
         bw.write("===========================================\n");
         bw.write("\t\t\t   Stars Coffee\n");
